@@ -1,0 +1,17 @@
+{
+    "blogs": [
+        {   
+            "title" : "My First Blog", 
+            "body" : "k chha hallichalli kto thik cha ni mero tw thik chhaina bye ok take care", 
+            "author": "aakriti",
+            "id":1
+        }, 
+        {
+            "title" : "My Second Blog", 
+            "body" : "Hello guys welcome to my channel Lorem ipsum dolor ki baat nahi ", 
+            "author": "anuja",
+            "id":2
+        }
+    ]
+}
+
