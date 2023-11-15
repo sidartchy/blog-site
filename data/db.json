@@ -1,5 +1,5 @@
 {
-    "blogs": [
+    "blogs":[
         {   
             "title" : "My First Blog", 
             "body" : "k chha hallichalli kto thik cha ni mero tw thik chhaina bye ok take care", 
@@ -14,4 +14,3 @@
         }
     ]
 }
-
